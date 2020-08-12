@@ -9,3 +9,5 @@ then we need to clone the code from repository and open it using visual studio
 https://github.com/abhipatil2271/ThinBridgeTestAppCode.git
 
 and then run and test this application.
+
+You can check test results in TestResultScreenShots.pdf file in code repository.
