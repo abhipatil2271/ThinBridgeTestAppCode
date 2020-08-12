@@ -4,7 +4,7 @@ For running this application we need to create database using script file which 
 https://github.com/abhipatil2271/DatabaseScript.git 
 
 
-then we need to clone the code from repository
+then we need to clone the code from repository and open it using visual studio
 
 https://github.com/abhipatil2271/ThinBridgeTestAppCode.git
 
